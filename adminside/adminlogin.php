@@ -6,7 +6,7 @@
 				background-color:#d6d6cf;
 			}
 			#contentdiv{
-				height:450px;
+				height:500px;
 				width:700px;
 				background-color:#e5b2ae;
 				position:absolute;
